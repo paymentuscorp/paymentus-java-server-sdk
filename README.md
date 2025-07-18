@@ -2,7 +2,7 @@
 
 ## What is the Paymentus Server SDK?
 The Paymentus Server SDK is a comprehensive Java-based toolkit that simplifies integration with the Paymentus Server-side APIs. Designed for backend services, it enables secure, streamlined access to Paymentus' powerful XOTP platform—including payments, user management, autopay, account inquiries, and more. The SDK abstracts authentication flows, allowing developers to focus on building functionality without managing token lifecycles manually.
-For full documentation and implementation guides, visit developer.paymentus.io.
+For full documentation and implementation guides, visit https://developer.paymentus.io
 
 ## Project Structure
 
